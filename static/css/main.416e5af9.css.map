@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,yBACE,iBAAmB,CAGrB,yBACE,eAAiB","file":"static/css/main.416e5af9.css","sourcesContent":[".root {\n  text-align: center;\n}\n\n.intro {\n  font-size: large;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
